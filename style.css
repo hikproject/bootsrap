@@ -1,0 +1,16 @@
+.jumbotron img{
+    width: 200px;
+    border: 1px solid rgb(253,146,7);
+    background: rgb(243, 212, 72);
+}
+.jumbotron{
+    background: rgb(206, 250, 149);
+}
+
+.bg-light img{
+    width: 200px;
+    border: 1px solid rgb(253, 146, 7);
+}
+.bg-light h1{
+    font-size: 64px;
+}
